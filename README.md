@@ -1,8 +1,4 @@
 # 한림대학교 소프트웨어융합대학
----
-![이력서사진](EBLOh8zVAAE2sGC.jpg)
-
-평소 과제할때 모습
 
 ---
 
@@ -34,3 +30,9 @@
 github address: [zkfks4545][github]
 
 [github]:http://github.com/zkfks4545
+
+---
+
+![이력서사진](EBLOh8zVAAE2sGC.jpg)
+
+평소 과제할때 모습
